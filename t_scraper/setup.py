@@ -8,7 +8,6 @@ setup(
     name='twitterscraper',
     version='1.6.1',
     description='Tool for scraping Tweets',
-    author= "https://twitter.com/0dayman23",
     license='MIT',
     packages=find_packages(exclude=["build.*", "tests", "tests.*"]),
     install_requires=required,
